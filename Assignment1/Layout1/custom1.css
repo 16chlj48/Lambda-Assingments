@@ -1,0 +1,22 @@
+
+.high {
+	background-color: red;
+	height: 250px;
+	width: 2000px;
+}
+.cont {
+	background-color: yellow;
+	width: 2000px;
+}
+.mid {
+	background-color: blue;
+	height: 1800px;
+	width: 75%;
+	margin: auto;
+}
+.low {
+	background-color: green;
+	height: 150px;
+	width: 75%;
+	margin: auto;
+}

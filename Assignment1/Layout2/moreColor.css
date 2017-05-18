@@ -1,0 +1,36 @@
+
+.high {
+	background-color: red;
+	height: 120px;
+	width: 900px;
+}
+.cont {
+	display: flex;
+	width: 900px;
+}
+.mid1 {
+	background-color: blue;
+	width: 33.3%;
+	height: 550px;
+	margin: auto;
+	float: left;
+}
+.mid2{
+	background-color: purple;
+	width: 33.3%;
+	height: 550px;
+	margin: auto;
+	float: left;
+}
+.mid3{
+	background-color: yellow;
+	width: 33.4%;
+	height: 550px;
+	margin: auto;
+	float: left;
+}
+.low {
+	background-color: green;
+	height: 120px;
+	width: 900px;
+}

@@ -1,0 +1,107 @@
+.header {
+  background-image: url(http://blackrockdigital.github.io/startbootstrap-clean-blog/img/post-bg.jpg);
+  background-size: cover;
+  background-position: center; 
+}
+
+.navbar-default {
+  background-color: transparent;
+  border: transparent;
+} 
+
+nav {
+  font-weight: 700;
+  background-color: transparent;
+}
+.navbar-header{
+  color: white;
+}
+
+.header-text{
+  color: white;
+}
+
+.h1-header {
+  margin-top: 80px; 
+  margin-left: 55px;
+  background: transparent;
+  
+}
+
+.h2-header {
+  margin-left: 55px;
+  background: transparent;
+  font-size: 32px;
+}
+
+.h3-header {
+  font-style: italic;
+  margin-left: 55px;
+  margin-bottom: 120px;
+  background: transparent;
+  font-size: 18px;
+}
+
+.caption {
+  width: 90%;
+  text-align: center;
+  font-style: italic;
+  font-size: 15px;
+}
+
+.header-text h1 {
+  font-size: 55px;
+  font-weight: bold;
+  text-align: left;
+  color: white;
+}
+
+
+p {
+  font-family: "Arial", sans-serif;
+  font-size: 18px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+li {
+  display: inline-block;
+}
+
+ul {
+  text-align: center;  
+}
+
+.blackbutton {
+  margin-right: 24px;
+  display: inline-block;
+  width: 45px;
+  height: 45px;
+  line-height: 44px;
+  border: 2px;
+  border-radius: 50%;
+  color: white;
+  text-align: center;
+  background: #2E2E2E;
+  font-size:25px;
+  font-weight: bold;
+  margin-top: 80px;
+
+}
+
+.row2{
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.container-copyright {
+  font-size: 10px;
+  margin-bottom: 50px;
+  margin-top: 10px;
+  text-align: center;
+  color: grey;
+}
+
+.copyright_text{
+  font-size: 15px;
+}
